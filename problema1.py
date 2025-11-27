@@ -1,4 +1,3 @@
-# problema1_multiobj_unificado.py
 # -*- coding: utf-8 -*-
 
 import copy
@@ -429,3 +428,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
